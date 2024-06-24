@@ -1,0 +1,31 @@
+{
+  "name": "sitemaps-getter",
+  "version": "1.0.0",
+  "description": "A tool to get sitemaps from websites and crawl them",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luk3skyw4lker/sitemaps-getter.git"
+  },
+  "keywords": [
+    "sitemap",
+    "xml",
+    "crawling"
+  ],
+  "author": "luk3ksyw4lker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luk3skyw4lker/sitemaps-getter/issues"
+  },
+  "homepage": "https://github.com/luk3skyw4lker/sitemaps-getter#readme",
+  "dependencies": {
+    "@types/node": "^20.14.8",
+    "axios": "^1.7.2",
+    "typescript": "^5.5.2"
+  }
+}
