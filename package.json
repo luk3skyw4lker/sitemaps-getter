@@ -1,6 +1,6 @@
 {
   "name": "sitemaps-getter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tool to get sitemaps from websites and crawl them",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
